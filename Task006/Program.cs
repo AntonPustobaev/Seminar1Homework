@@ -1,4 +1,7 @@
-﻿int a;
+﻿using System;
+Console.Clear();
+
+int a;
 
 Console.WriteLine("Введите число : ");
 
