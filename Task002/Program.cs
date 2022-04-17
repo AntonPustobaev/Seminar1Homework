@@ -1,4 +1,7 @@
-﻿int a, b;
+﻿using System;
+Console.Clear();
+
+int a, b;
  
 Console.WriteLine ("Введите числа: ");
  
